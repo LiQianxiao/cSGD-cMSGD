@@ -7,7 +7,7 @@ equations and adaptive stochastic gradient algorithms.
 In International Conference on Machine Learning, pp.
 2101–2110, 2017.*
 
-URL: <http://www.proceedings.mlr.press/v70/li17f/li17f.pdf>
+URL: <http://proceedings.mlr.press/v70/li17f/li17f.pdf>
 
 ## Prerequisites
 
